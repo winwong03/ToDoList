@@ -1,0 +1,8 @@
+.isHighPriority, Unscheduled toDoitem, setHighPriority - interface UnscheduledToDoItems and ScheduledtoDoItems was made
+
+TodoItem is abstract because it's just an idea. Unscheduled and ScheduledtoDoItems make up the real items of a todoItem.
+
+
+
+
+
